@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "euRHZorsld0m1rBcBCmVPIXm1Chis8o0LiuNOXTUjz8=",
+  "Source": "StaticFilesExample",
+  "BasePath": "_content/StaticFilesExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFilesExample\\wwwroot",
+      "Source": "StaticFilesExample",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\StaticFilesExample\\StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/StaticFilesExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
