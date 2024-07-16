@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vB+0SIr2ooEl3mYhbBUjTZWWDejiteAhA5ZKsk4vyCk=",
+  "Source": "ViewsExample",
+  "BasePath": "_content/ViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewsExample\\wwwroot",
+      "Source": "ViewsExample",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\",
+      "BasePath": "_content/ViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "S:\\software development\\practice\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\",
+      "BasePath": "_content/ViewsExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
