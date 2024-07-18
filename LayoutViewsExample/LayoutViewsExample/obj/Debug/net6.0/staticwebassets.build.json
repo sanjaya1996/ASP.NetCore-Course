@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pwnnE1W3F+n7y8cS22NnCCdfPATaHyY6ouRAFWFFGk4=",
+  "Source": "LayoutViewsExample",
+  "BasePath": "_content/LayoutViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViewsExample\\wwwroot",
+      "Source": "LayoutViewsExample",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "S:\\software development\\practice\\aspnetcore\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

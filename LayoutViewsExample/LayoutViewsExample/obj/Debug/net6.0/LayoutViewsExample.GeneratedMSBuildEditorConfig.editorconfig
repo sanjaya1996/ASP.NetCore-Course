@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LayoutViewsExample
+build_property.RootNamespace = LayoutViewsExample
+build_property.ProjectDir = S:\software development\practice\aspnetcore\LayoutViewsExample\LayoutViewsExample\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = S:\software development\practice\aspnetcore\LayoutViewsExample\LayoutViewsExample
+build_property._RazorSourceGeneratorDebug = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Products/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Products/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Products/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Shared/_MasterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYXN0ZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/Shared/_ProductsLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0c0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/software development/practice/aspnetcore/LayoutViewsExample/LayoutViewsExample/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
