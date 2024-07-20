@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Home</h1>
+
+
+@await Component.InvokeAsync("Grid", new {gridType = "friends"})
+
+<button class="button button-blue-back" id="load-friends-button">Load Friends</button>
+
+<div id="friends-list"></div>
+
+<script src="~/friends.js"></script>
