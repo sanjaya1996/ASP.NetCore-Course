@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "kxWqduPpcYXZdU9uP0bDx7kNsjnygxwg28rWOc176Kk=",
+  "Source": "DIExample",
+  "BasePath": "_content/DIExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIExample\\wwwroot",
+      "Source": "DIExample",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\DIExample\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "S:\\software development\\practice\\aspnetcore\\DIExample\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "DIExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\software development\\practice\\aspnetcore\\DIExample\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

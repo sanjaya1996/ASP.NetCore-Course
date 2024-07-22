@@ -1,0 +1,15 @@
+S:\software development\practice\aspnetcore\DIExample\Services\bin\Debug\net6.0\Services.deps.json
+S:\software development\practice\aspnetcore\DIExample\Services\bin\Debug\net6.0\Services.dll
+S:\software development\practice\aspnetcore\DIExample\Services\bin\Debug\net6.0\Services.pdb
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.dll
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\refint\Services.dll
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.pdb
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\ref\Services.dll
+S:\software development\practice\aspnetcore\DIExample\Services\bin\Debug\net6.0\ServiceContracts.dll
+S:\software development\practice\aspnetcore\DIExample\Services\bin\Debug\net6.0\ServiceContracts.pdb
+S:\software development\practice\aspnetcore\DIExample\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
