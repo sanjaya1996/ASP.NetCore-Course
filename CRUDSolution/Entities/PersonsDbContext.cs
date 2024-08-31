@@ -35,6 +35,15 @@ namespace Entities
 
             foreach (Person person in persons)
                 modelBuilder.Entity<Person>().HasData(person);
+
+            // Fluent API
+            modelBuilder.Entity<Person>().Property(person => person.TIN)
+                .HasColumnName("TaxIdentificationNumber")
+                .HasColumnType("varchar(8)")
+                .HasDefaultValue("ABC12345");
+
+            // modelBuilder.Entity<Person>().HasIndex(p => p.TIN).IsUnique(true);
+            modelBuilder.Entity<Person>().HasCheckConstraint("CHK_TIN", "len([TaxIdentificationNumber]) = 8");
         }
 
         public List<Person> sp_GetAllPerson()
